@@ -1,0 +1,13 @@
+{
+  "name": "NewsRe",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start"
+  },
+  "dependencies": {
+    "react-native": "^0.21.0",
+    "react-native-gifted-listview": "0.0.13",
+    "react-native-jpush": "^1.0.6"
+  }
+}
